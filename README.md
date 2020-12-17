@@ -10,12 +10,12 @@ I created this app because often, when I went grocery shopping, I wanted to know
 - [x]  Tax rate modification
 - [x] Shows total price of the shopping cart
 
-#Demo 1
+# Demo 1
 
 <img src="https://imgur.com/5wCwRlG.gif" width=200><br>
 
 
-#Demo 2
+# Demo 2
 
 <img src="https://imgur.com/aQ6uxB9.gif" width=200><br>
 
