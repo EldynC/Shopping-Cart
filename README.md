@@ -10,6 +10,14 @@ I created this app because often, when I went grocery shopping, I wanted to know
 - [x]  Tax rate modification
 - [x] Shows total price of the shopping cart
 
+#Demo 1
+
+<img src="https://imgur.com/aQ6uxB9" width=200><br>
+
+#Demo 2
+
+<img src="https://imgur.com/9lpEaR0" width=200><br>
+
 # Libraries Used
 - React Native
 - React Number Format
