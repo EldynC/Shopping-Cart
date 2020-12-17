@@ -11,12 +11,12 @@ I created this app because often, when I went grocery shopping, I wanted to know
 - [x] Shows total price of the shopping cart
 
 #Demo 1
+<img src="https://imgur.com/5wCwRlG.gif" width=200><br>
 
-<img src="https://imgur.com/aQ6uxB9.gif" width=200><br>
 
 #Demo 2
+<img src="https://imgur.com/aQ6uxB9.gif" width=200><br>
 
-<img src="https://imgur.com/9lpEaR0.gif" width=200><br>
 
 # Libraries Used
 - React Native
